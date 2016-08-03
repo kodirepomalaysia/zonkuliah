@@ -1,0 +1,13 @@
+<item>
+<title>[220913][Siri001]Sirah Lengkap Rasulullah - Ustaz Wadi Annuar</title>
+<utube>Fumhi29GuGI</utube>
+<thumbnail>>https://goo.gl/nMNIrY</thumbnail>
+<fanart>https://goo.gl/BH27K2</fanart>
+</item>
+
+<item>
+<title>[221213][Siri002]Sirah Lengkap Rasulullah - Ustaz Wadi Annuar</title>
+<utube>WBqBZhS9UxA</utube>
+<thumbnail>>https://goo.gl/nMNIrY</thumbnail>
+<fanart>https://goo.gl/BH27K2</fanart>
+</item>
