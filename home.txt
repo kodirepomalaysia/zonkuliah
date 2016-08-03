@@ -1,0 +1,22 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>Sirah Nabawiyah - Ustaz Wadi Annuar</name>
+<thumbnail>https://goo.gl/nMNIrY</thumbnail>
+<externallink>https://goo.gl/sTlU7z</externallink>
+<fanart>https://goo.gl/BH27K2</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Ustaz Shamsuri Haji Ahmad</name>
+<thumbnail>https://goo.gl/nMNIrY</thumbnail>
+<externallink>https://goo.gl/uFjsuq</externallink>
+<fanart>https://goo.gl/BH27K2</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>
