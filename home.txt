@@ -1,6 +1,5 @@
 <layouttype>thumbnail</layouttype>
 
-
 <channels>
 
 <channel>
@@ -8,7 +7,7 @@
 <thumbnail>https://goo.gl/nMNIrY</thumbnail>
 <externallink>https://goo.gl/sTlU7z</externallink>
 <fanart>https://goo.gl/BH27K2</fanart>
-<info>SimpleKore.com</info>
+<info>Zon Kuliah</info>
 </channel>
 
 <channel>
@@ -16,7 +15,7 @@
 <thumbnail>https://goo.gl/nMNIrY</thumbnail>
 <externallink>https://goo.gl/uFjsuq</externallink>
 <fanart>https://goo.gl/BH27K2</fanart>
-<info>SimpleKore.com</info>
+<info>Zon Kuliah</info>
 </channel>
 
 </channels>
